@@ -1,3 +1,5 @@
+![Developer Banner](banner.png)
+
 # Hi, I'm Kainat! 🚀
 
 ### 🎓 Student @ triOS College 
